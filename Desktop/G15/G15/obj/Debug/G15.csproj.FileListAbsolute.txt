@@ -1,0 +1,18 @@
+C:\Users\Master\Desktop\дз 12.11.19\G15\G15\bin\Debug\G15.exe.config
+C:\Users\Master\Desktop\дз 12.11.19\G15\G15\bin\Debug\G15.exe
+C:\Users\Master\Desktop\дз 12.11.19\G15\G15\bin\Debug\G15.pdb
+C:\Users\Master\Desktop\дз 12.11.19\G15\G15\obj\Debug\G15.csprojResolveAssemblyReference.cache
+C:\Users\Master\Desktop\дз 12.11.19\G15\G15\obj\Debug\G15.FormGame15.resources
+C:\Users\Master\Desktop\дз 12.11.19\G15\G15\obj\Debug\G15.Properties.Resources.resources
+C:\Users\Master\Desktop\дз 12.11.19\G15\G15\obj\Debug\G15.csproj.GenerateResource.Cache
+C:\Users\Master\Desktop\дз 12.11.19\G15\G15\obj\Debug\G15.exe
+C:\Users\Master\Desktop\дз 12.11.19\G15\G15\obj\Debug\G15.pdb
+C:\Users\Master\Desktop\G15\G15\bin\Debug\G15.exe.config
+C:\Users\Master\Desktop\G15\G15\obj\Debug\G15.exe
+C:\Users\Master\Desktop\G15\G15\obj\Debug\G15.pdb
+C:\Users\Master\Desktop\G15\G15\bin\Debug\G15.exe
+C:\Users\Master\Desktop\G15\G15\bin\Debug\G15.pdb
+C:\Users\Master\Desktop\G15\G15\obj\Debug\G15.csprojResolveAssemblyReference.cache
+C:\Users\Master\Desktop\G15\G15\obj\Debug\G15.FormGame15.resources
+C:\Users\Master\Desktop\G15\G15\obj\Debug\G15.Properties.Resources.resources
+C:\Users\Master\Desktop\G15\G15\obj\Debug\G15.csproj.GenerateResource.Cache
